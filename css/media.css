@@ -1,0 +1,37 @@
+@media screen and (max-width:1000px){
+    .upper_footer_description p{
+        display: none;
+    }
+    
+    .nav_left_options p, .nav_right p{
+        display: none;
+    }
+
+    .company_logo{
+        margin-left: 50%;
+    }
+
+    .container{
+        height: 200px;
+    }
+    .container h1{
+        font-size: 30px;
+        
+    }
+    .product_description{
+        padding: 1px;
+    }
+
+    .nav_right span{
+        visibility: visible;
+        margin-right: 40%;
+        cursor: pointer;
+    }
+    .product_description p{
+        display: none;
+    }
+    .company_logo{
+        width: 50px;
+    }
+
+}
